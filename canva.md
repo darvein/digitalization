@@ -1,0 +1,51 @@
+# Canva
+
+- Animations
+- Web site creation: off of templates
+    - Link in Bio style web page
+- Video Editing
+    - music, sound effects, voiceovers
+    - vdeo filters, enhancers, effects, transitions
+        - slow motion
+        - video spliter
+        - resizing for instagram
+        - slow-motion
+        - sync with beat sync
+        - video trimmer
+        - motion paths
+        - text on video, watermarks
+        - AI video, voice and music generator
+    - free stock videos library
+    - screen recorder
+    - Images to video
+    - Remove audio from video
+    - Video transformation
+- Photo editing
+    - AI Image generation: via stable difussion from a prompt
+    - enhance quality
+    - crop, blur, effects
+        - Combine images
+        - frames, borders or text
+    - photo montages/collections
+    - Magic Eraser
+    - Background remover or change background color, blur background
+    - AI: face generator, expander, filter, 
+    - Sketch and Draw
+    - SVG Editor
+    - Mockups: what?
+- Library and assets
+    - Pre-built layouts: Lots of templates pre-styled with page layouts
+    - Huge media lib: Pro subs can have photos, videos, audio files, graphics, templates
+    - Grids, textures, icons, stickers, 
+- Data visualization through Charts
+- Business tools
+    - File conversions (pdf, jpg, word, jpg, png)
+    - Plan and schedule content
+    - Cloud storage: 1000Gb
+    - Team collaboration
+    - Brand Kit: store your brand assets (logos, fonts, colors, etc)
+        - Use brandkint on multiple designs
+    - Canva integration with various social networks
+    - Mobile and desktop apps
+    - PDF and others Translators?
+    - Other integrations: Google drive, slack, youtube, qrcode, google photos, teams
